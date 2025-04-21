@@ -12,3 +12,4 @@ numpy==1.26.4
 protobuf==4.25.3
 pyttsx3==2.98
 speech_recognition==3.10.4  # Corrected from speech-recognition
+--upgrade pip
