@@ -1,19 +1,14 @@
-streamlit
-langchain
-langchain-communit
-langchain-core  # Updated to satisfy langchain-huggingface
-langchain-huggingface
-langchain-mistralai
-faiss-cpu
-transformers
-sentence-transformers
-huggingface-hub
-PyMuPDF
-pdfplumber
-pypdf
-numpy
-pandas
-tqdm
-requests
-toolz
-protobuf
+streamlit==1.33.0
+langchain==0.1.13
+langchain-community==0.0.29
+langchain-core==0.1.52
+langchain-huggingface==0.0.2
+langchain-mistralai==0.1.0  # Upgraded to resolve tokenizers conflict
+faiss-cpu==1.7.4
+sentence-transformers==2.6.1
+huggingface-hub==0.23.1
+PyMuPDF==1.23.17
+numpy==1.26.4
+protobuf==4.25.3
+pyttsx3==2.98
+speech-recognition==3.10.0
