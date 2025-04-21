@@ -1,6 +1,6 @@
 streamlit==1.33.0
 langchain==0.1.13
-langchain-community==0.0.28
+langchain-community==0.0.29
 langchain-core==0.1.35
 langchain-huggingface==0.0.2
 langchain-mistralai==0.0.4
@@ -17,3 +17,4 @@ tqdm==4.66.2
 requests==2.31.0
 toolz==0.12.1
 protobuf==4.25.3
+
