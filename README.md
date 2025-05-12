@@ -117,5 +117,3 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 ---
 
 ## 📄 License
-
-*(Suggestion: Add a license file (e.g., MIT, Apache 2.0) to your repository and specify it here.)*
