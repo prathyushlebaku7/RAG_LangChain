@@ -3,7 +3,6 @@
 [![Python Version](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-red.svg)](https://streamlit.io)
 [![LangChain](https://img.shields.io/badge/LangChain-Core-lightgrey.svg)](https://python.langchain.com/docs/get_started/introduction)
-[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging Face-Embeddings-yellow.svg)](https://huggingface.co/sentence-transformers)
 [![FAISS](https://img.shields.io/badge/FAISS-VectorStore-blue.svg)](https://github.com/facebookresearch/faiss)
 [![Mistral AI](https://img.shields.io/badge/Mistral%20AI-LLM-orange.svg)](https://mistral.ai/)
 
