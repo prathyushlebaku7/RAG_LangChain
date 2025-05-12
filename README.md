@@ -41,22 +41,6 @@
 
 ---
 
-## 📂 File Structure
-
-
-RAG_LangChain/
-│
-├── app.py                # Main Streamlit application, UI, and flow control
-├── embeddings.py         # Handles PDF loading, chunking, embedding, FAISS storage/loading
-├── generation.py         # Handles LLM chain, Speech-to-Text, Text-to-Speech
-├── requirements.txt      # Python dependencies
-├── faiss_index/          # Directory created to store the FAISS index (auto-generated)
-├── uploaded_pdfs/        # Directory created to store uploaded PDFs temporarily (auto-generated)
-└── chat_log.txt          # Log file for conversations (auto-generated)
-
-
----
-
 ## 🚀 Setup and Installation
 
 1.  **Clone the Repository:**
