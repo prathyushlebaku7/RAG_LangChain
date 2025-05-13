@@ -10,7 +10,8 @@
 
 **Interact with your PDF documents using your voice!** This application leverages Retrieval-Augmented Generation (RAG) to allow you to ask questions about uploaded PDFs and receive spoken answers. It uses FAISS for efficient similarity search, Hugging Face sentence transformers for embeddings, Mistral AI for language understanding and generation, and Streamlit for the user interface.
 
-![image](https://github.com/user-attachments/assets/949dd491-f517-41b6-ae1c-0c6b60d570e3)
+![image](https://github.com/user-attachments/assets/d6056cd9-7d40-43b2-a31e-30f23a8701f6)
+
 
 ---
 
