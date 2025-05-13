@@ -20,7 +20,7 @@ st.markdown("<h1 style='text-align: center;'>🧠 Talk to Your PDFs (FAISS Versi
 st.markdown(
     """
     <style>
-        .block-container { padding-top: 1rem; padding-bottom: 1rem; }
+        .block-container { padding-top: 2.5rem; padding-bottom: 1rem; }
         .stButton>button {
             font-weight: bold;
             border-radius: 10px;
